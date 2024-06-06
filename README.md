@@ -5,7 +5,14 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=30&center=true&vCenter=true&width=600&height=100&lines=<+Software+Engineer+💻+/>;<+Web+Developer+🌐+/>;<+Love+to+learn+new+things+📖+/>;<+Video+Games+Lover+🎮+/>" alt="Typing SVG">
   </a>
 </p>
-<!--
+
+<div align="center">
+  <h2 style="display: inline-block">
+    Error 404: Free time not found 
+  </h2>  
+</div>
+
+<!--center
 **AndreLopez20/AndreLopez20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
