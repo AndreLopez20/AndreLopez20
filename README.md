@@ -22,7 +22,7 @@
 <!--Intro end-->
 <br/>
 
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25" style="vertical-align: middle;"><span style="font-size: 24px;"><b>Skills</b></span>
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25" style="vertical-align: middle;"><span style="font-size: large ;"><b>Skills</b></span>
 
 
 <!--center
