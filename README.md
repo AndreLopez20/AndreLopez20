@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;Web+Development;Active+Learner;Love+to+learn+new+things+<3;Video+Games+Lover+<3" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=<+Software+Engineer+/>;Web+Development;Love+to+learn+new+things+<3;Video+Games+Lover+<3" alt="Typing SVG">
   </a>
 </p>
 <!--
