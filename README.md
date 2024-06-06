@@ -19,11 +19,14 @@
 - 📚 Self-learning more about Front-end development
 
 - 🧠 Looking for opportunities to put my knowledge into practice.
-<br/>
+<!--Intro end-->
 <br/>
 
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>  Skills</b>
-<!--Intro end-->
+<span style="display: inline-block;">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
+</span>
+<h2 style="display: inline-block;"><b>Skills</b></h2>
+
 
 <!--center
 **AndreLopez20/AndreLopez20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
